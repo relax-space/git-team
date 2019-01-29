@@ -4,4 +4,8 @@ laoganma
 malaxiangguo
 laoganma 
 sos
+<<<<<<< HEAD
 aoa
+=======
+no
+>>>>>>> #23 no
