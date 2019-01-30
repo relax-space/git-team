@@ -11,3 +11,9 @@ change:git command
 one commit
 amend
 amend 2
+
+========
+
+one commit again
+amend
+amend 123
