@@ -17,3 +17,6 @@ amend 2
 one commit again
 amend
 amend 123
+
+one commit 2
+one commit 3
